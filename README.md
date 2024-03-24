@@ -1,6 +1,6 @@
 - 👋 Hi, I’m zeljko :)
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning django, php, java for backend and scss + react for frontend
+- 🌱 I’m currently learning django, php, java for backend and gulp + scss + react for frontend
 - 📫 @zzzzeljko on instagram
 
 <!---
