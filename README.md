@@ -1,7 +1,7 @@
 - 👋 Hi, I’m zeljko :)
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning django, php, java for backend and scss + react for frontend
-- 📫 How to reach me? @zzzzeljko on instagram
+- 📫 @zzzzeljko on instagram
 
 <!---
 zpavicic/zpavicic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
