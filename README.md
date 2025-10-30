@@ -1,7 +1,7 @@
 - zeljko
 - fullstack development
 - django, php, java: backend //// gulp + scss + react: frontend
-- 📫 @zzzzeljko on instagram
+- 📫 @z.pavicic3 on instagram
 
 <!---
 zpavicic/zpavicic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
