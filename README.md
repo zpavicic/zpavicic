@@ -1,6 +1,7 @@
 - hey I'm Zeljko
 - fullstack development
 - django, php, java: backend //// bs, tailwind, react: frontend //// mysql, postgre, firebase: database
+- also works with wp, woocommerce
 - 📫 @z.pavicic3 on instagram
 
 <!---
